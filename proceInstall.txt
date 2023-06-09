@@ -1,0 +1,15 @@
+requirements.txt
+
+Django==4.X.X
+
+pip install -r requirements.txt
+
+list packet pip list --outdated
+
+update:
+pip install -U -r requirements.txt
+pip freeze > requirements.txt
+
+git
+git commit and git push
+
